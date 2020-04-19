@@ -1,0 +1,40 @@
+div#noticias{
+    width: 68%;
+    height: 100%;
+    margin-top: 50px;
+    margin-left: 250px;
+}
+
+p {
+    text-align: justify;
+    padding: 5px;
+}
+h1{
+    text-align: left;
+    padding: 5px;
+ }
+
+ a{
+    text-decoration: none;
+    color: black;
+ }
+ 
+ img{
+     border-radius: 8px;
+     margin-left: 10px;
+ }
+
+ iframe{
+     width: 560px;
+     height: 315px;
+     margin-left: 150px;
+ }
+
+table{
+    transition: 2s;
+    border-radius: 8px;
+}
+
+table:hover{
+    background-color: rgba(128, 128, 128, 0.144);
+}

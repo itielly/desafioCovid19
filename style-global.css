@@ -1,0 +1,51 @@
+body{
+    font-family: sans-serif;
+}
+div#logo-container{
+    background-color: #154854;
+    margin-top: -20px;
+    margin-left: -20px;
+    margin-right: -8px;
+}
+
+img#logo{
+    margin-left: 250px;
+}
+
+img#logocorona{
+    width: 100px;
+    height: 100px;
+    margin-left: 300px;
+}
+
+div#menu-container{
+    width: 102.2%;
+    height: 50%;
+    margin-top: -13px;
+    margin-left: -10px;
+    background-color: #1a7b91;
+}
+
+nav#menu ul{
+    list-style: none;
+    text-transform: uppercase;
+    margin-left: 240px;
+}
+
+nav#menu li{
+    display: inline;  
+    margin: 10px;
+    padding: 0.6px;
+    transition: background-color 2s;
+}
+
+nav#menu li:hover{
+    background-color: #154854;
+}
+
+nav#menu a{
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+}
+

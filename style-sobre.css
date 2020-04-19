@@ -1,0 +1,36 @@
+div#conteudo{
+    width: 68%;
+    height: 100%;
+    margin-top: 50px;
+    margin-left: 200px;
+    border-radius: 8px;
+}
+
+h1{
+    margin-left: 340px;
+}
+
+
+h2{
+    text-align: center;
+    
+}
+
+p#txt{
+    text-align: justify;
+    margin-top: -10px;
+    font-size: 18px;
+    padding: 10px;
+}
+
+footer {
+    display: flex;
+    margin: 10px;
+    margin-left: 290px;
+}
+
+footer img{
+    padding: 5px;
+    width: 30px;
+    height: 30px;
+}
