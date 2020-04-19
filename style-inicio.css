@@ -29,12 +29,3 @@ h1{
      height: 315px;
      margin-left: 150px;
  }
-
-table{
-    transition: 2s;
-    border-radius: 8px;
-}
-
-table:hover{
-    background-color: rgba(128, 128, 128, 0.144);
-}
