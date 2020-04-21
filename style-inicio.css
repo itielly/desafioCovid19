@@ -26,14 +26,12 @@ h1{
  iframe{
      width: 560px;
      height: 315px;
-     margin-left: 150px;
  }
 
  /* BREAKPOINT VIDEOS */
- @media screen and (max-width: 590px) {
+ @media screen and (max-width: 700px) {
     iframe{
         width: 460px;
         height: 180px;
-        margin-left: 0px;
     }
  }
