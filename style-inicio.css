@@ -28,3 +28,12 @@ h1{
      height: 315px;
      margin-left: 150px;
  }
+
+ /* BREAKPOINT VIDEOS */
+ @media screen and (max-width: 590px) {
+    iframe{
+        width: 460px;
+        height: 180px;
+        margin-left: 0px;
+    }
+ }
