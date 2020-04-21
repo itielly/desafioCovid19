@@ -1,6 +1,7 @@
 div#conteudo{
-    display: block;
-    width: 50%;
-    margin-left: 270px;
+    display: flex;
+    flex-direction: column;
+    align-items: right;
+    width: 61%;
     padding: 10px;
 }

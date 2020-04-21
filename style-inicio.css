@@ -1,8 +1,7 @@
-div#noticias{
+section#noticias{
     width: 68%;
+    max-width: 800px;
     height: 100%;
-    margin-top: 50px;
-    margin-left: 250px;
 }
 
 p {

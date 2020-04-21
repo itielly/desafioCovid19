@@ -1,41 +1,46 @@
-body{
-    font-family: sans-serif;
-}
-div#logo-container{
-    background-color: #154854;
-    margin-top: -20px;
-    margin-left: -20px;
-    margin-right: -8px;
+body.container-geral{
+    width: 100%;
+    max-width: 1300px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
-img#logo{
-    margin-left: 250px;
+section#logo-container{
+    width: 130vh;
+    max-width: 1120px;
+    margin-top: -2vh;
+    height: 20vh;
+    background-color: #154854;
+    display: flex;
+    justify-content: space-between;
 }
+
 
 img#logocorona{
-    width: 100px;
-    height: 100px;
-    margin-left: 300px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 3%;
 }
 
-div#menu-container{
-    width: 102.2%;
+section#menu-container{
+    display: flex;
+    width: 100%;
     height: 50%;
-    margin-top: -13px;
-    margin-left: -10px;
     background-color: #1a7b91;
+
 }
 
 nav#menu ul{
     list-style: none;
     text-transform: uppercase;
-    margin-left: 240px;
 }
 
-nav#menu li{
-    display: inline;  
-    margin: 10px;
-    padding: 0.6px;
+nav#menu li{  
+    display: inline;
+    padding: 13px;
     transition: background-color 2s;
 }
 
