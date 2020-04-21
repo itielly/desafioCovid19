@@ -12,7 +12,8 @@ section#logo-container{
     width: 130vh;
     max-width: 1120px;
     margin-top: -2vh;
-    height: 20vh;
+    height: 20%;
+    max-height: 200px;
     background-color: #154854;
     display: flex;
     justify-content: space-between;
