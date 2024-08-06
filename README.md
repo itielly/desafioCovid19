@@ -3,7 +3,7 @@
 
 ## Rodar o projeto:
 
-### - Não é necessário fazer instalações
-### - Basta arrastar o arquivo ```index.html``` para seu navegador
-### - Caso você utilize o Live Server, clicar com o botão direito em cima do ```index.html``` e selecionar o opção Open With Live Server
+- Não é necessário fazer instalações
+- Basta arrastar o arquivo ```index.html``` para seu navegador
+- Caso você utilize o Live Server, clicar com o botão direito em cima do ```index.html``` e selecionar o opção Open With Live Server
 
